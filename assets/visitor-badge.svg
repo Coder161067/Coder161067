@@ -54,13 +54,13 @@
 
   <!-- Count -->
   <text x="24" y="25" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="14" font-weight="bold" fill="#c9d1d9">
-    10
+    11
     <animate attributeName="fill" values="#c9d1d9;#58a6ff;#c9d1d9" dur="3s" repeatCount="indefinite"/>
   </text>
 
   <!-- Count glow -->
   <text x="24" y="25" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="14" font-weight="bold" fill="#58a6ff" filter="url(#blur)" opacity="0.3">
-    10
+    11
     <animate attributeName="opacity" values="0.15;0.45;0.15" dur="3s" repeatCount="indefinite"/>
   </text>
 </svg>
