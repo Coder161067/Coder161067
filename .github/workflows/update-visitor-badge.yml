@@ -1,0 +1,42 @@
+name: Update Visitor Badge
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/generate-badge.sh'
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch count
+        id: count
+        run: |
+          SVG=$(curl -sf "https://github-view-counter.vercel.app/api?username=Coder161067" || echo "")
+          if [ -n "$SVG" ]; then
+            RAW=$(echo "$SVG" | grep -o 'font-weight="bold">[0-9]*<' | grep -o '[0-9]*')
+            COUNT=${RAW:-0}
+          else
+            COUNT=0
+          fi
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Generate badge
+        run: bash scripts/generate-badge.sh "${{ steps.count.outputs.count }}"
+
+      - name: Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/visitor-badge.svg
+          git diff --cached --quiet || git commit -m "chore: update visitor badge [${{ steps.count.outputs.count }}]"
+          git push

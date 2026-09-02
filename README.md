@@ -1,6 +1,6 @@
-# **`FLORBO GLORBO`** 🕵️
+# ***FlorboGlorbo*** 🕵️
 
-### *Forensic Analyst & OSINT Specialist*
+### *Forensics & OSINT Hobbyist*
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=F7DC6F&random=true&width=650&separator=%3D&lines=%5B*%5D+Initializing+FlorboGlorbo...%3D%5B%2B%5D+Loading+Analysis+Modules%3D%5B*%5D+nmap+-sV+-sC+target%3D%5B%2B%5D+Port+scan+complete+%E2%80%94+22%2Ftcp%2C+80%2Ftcp%2C+443%2Ftcp%3D%5B*%5D+Running+nmap+-A+--script%3Dvuln%3D%5B%2B%5D+Data+Recovered%3D%5B*%5D+Forensics+Mode+Enabled%3D%5B%2B%5D+Routing+through+proxy...%3D%5B*%5D+Circumventing+Censorship%3D%5B%2B%5D+Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
@@ -8,13 +8,11 @@
 
 ## **About Me**
 
-> I've always been drawn to the things people try to hide. That curiosity pulled me into **digital forensics** and **OSINT** — where the real fun is finding what wasn't meant to be found. There's something about reconstructing a story from scattered fragments and breadcrumbs that never gets old.
->
-> I don't care how it works. I care how it breaks. When I'm not tearing apart digital artifacts or tracing breadcrumbs across the internet, I'm learning cryptography, breaking systems apart to understand them, or grinding math problems for fun.
->
-> I'm a firm believer that the best way to understand a system is to break it — and the best way to win is to see what everyone else missed. Censorship circumvention, CTFs, de-anonymization, you name it. If it has a blind spot, I want to find it.
->
-> If it can be outsmarted, that's the goal.
+ I've always been drawn to the things people try to hide. That curiosity pulled me into **digital forensics** and **OSINT** — where the real fun is finding what wasn't meant to be found. There's something about reconstructing a story from scattered fragments and the target's carelessness that never gets old.
+
+ I care about how something breaks more than how it works. When I'm not tearing apart digital artifacts or tracing targets across the internet, I'm learning cryptography, breaking systems apart to understand them, or grinding math problems for fun.
+
+ I'm a firm believer that the best way to understand a system is to break it — and the best way to succeed is to see what everyone else missed. Censorship circumvention, CTFs, de-anonymization, you name it. If it has a blind spot, I want to find it.
 
 <br>
 
@@ -125,15 +123,9 @@ Sharing is caring! If you find any of my work useful, feel free to use it. Open 
 
 <br>
 
-## **📊 GitHub Stats**
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Coder161067&layout=compact&theme=tokyonight&hide_border=true" height="150px" />
-
-<br>
-
 ### 👀 Visitors
 
-![Visitor Count](https://github-view-counter.vercel.app/api?username=Coder161067)
+<img src="https://raw.githubusercontent.com/Coder161067/Coder161067/main/assets/visitor-badge.svg" alt="Visitor Count" />
 
 ---
 *This profile is under constant development, just like my skillset.*
