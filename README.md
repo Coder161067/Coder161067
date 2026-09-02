@@ -125,7 +125,7 @@ Sharing is caring! If you find any of my work useful, feel free to use it. Open 
 
 ### 👀 Visitors
 
-<img src="https://raw.githubusercontent.com/Coder161067/Coder161067/main/assets/visitor-badge.svg" alt="Visitor Count" />
+<img src="https://raw.githubusercontent.com/Coder161067/Coder161067/main/assets/visitor-badge.svg" alt="Visitor Count" width="216" height="96" />
 
 ---
 *This profile is under constant development, just like my skillset.*
