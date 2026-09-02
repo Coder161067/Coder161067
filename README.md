@@ -127,13 +127,13 @@ Sharing is caring! If you find any of my work useful, feel free to use it. Open 
 
 ## **📊 GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder161067&layout=compact&theme=tokyonight&hide_border=true" height="150px" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Coder161067&layout=compact&theme=tokyonight&hide_border=true" height="150px" />
 
 <br>
 
 ### 👀 Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/Coder161067/count.svg)
+![Visitor Count](https://github-view-counter.vercel.app/api?username=Coder161067)
 
 ---
 *This profile is under constant development, just like my skillset.*
