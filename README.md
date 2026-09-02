@@ -1,4 +1,4 @@
-# ***FlorboGlorbo*** 🕵️
+# ***FlorboGlorbo***
 
 ### *Forensics & OSINT Hobbyist*
 
@@ -106,6 +106,10 @@ focus = {
 <tr>
 <td>🖥️ Open Source & Security Tooling</td>
 <td>🧮 Math & Algorithmic Puzzles</td>
+</tr>
+<tr>
+<td>🎸 Guitar & Playing Music</td>
+<td>🎵 Music Enthusiast</td>
 </tr>
 </table>
 
